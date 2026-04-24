@@ -1,7 +1,7 @@
 package main
 
-import "remed-uts/internal/spline"
+import "remed-uts/internal/app"
 
 func main() {
-	spline.RunCLI()
+	app.RunCLI()
 }
